@@ -6,6 +6,4 @@ https://documentation-service.arm.com/static/5ed13ccfca06a95ce53f9129?token=#:~:
 
 , while sing Open-Source CPU below:
 
-# biRISC-V - 32-bit dual issue RISC-V CPU
-
 Github: [http://github.com/ultraembedded/biriscv](http://github.com/ultraembedded/biriscv)
