@@ -11,7 +11,7 @@ OUTPUT_SUFFIX    ?=
 SRC              ?= riscv_top
 NAME             ?= riscv_top
 
-RTL_INCLUDE       = ../../src/core ../../src/icache ../../src/dcache 
+RTL_INCLUDE       = ../../src/core ../../src/icache ../../src/dcache ../../src/tcm ../../src/dcls
 
 # Verilator options
 VERILATE_PARAMS  ?= --trace
